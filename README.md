@@ -23,3 +23,7 @@ El proyecto está organizado en el paquete `ug.programacion` y utiliza la librer
 # Licencia
 Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
+
+# Ventana de Interfaz
+![Captura de pantalla 2024-05-04 131323](https://github.com/AdrianPozoT/MI-PRIMERA-INTERFAZ/assets/168159379/74872499-32b6-4b4e-b572-5479f4789092)
+

@@ -20,8 +20,6 @@ El proyecto está organizado en el paquete `ug.programacion` y utiliza la librer
 2. Navegar al directorio del proyecto.
 3. Ejecutar `App.java` para iniciar la aplicación.
 
-# Licencia
-Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 
 # Ventana de Interfaz
